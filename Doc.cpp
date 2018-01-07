@@ -1,4 +1,4 @@
-// 8_1Doc.cpp : implementation of the CMy8_1Doc class
+// Doc.cpp : implementation of the CMy8_1Doc class
 //
 
 #include "stdafx.h"

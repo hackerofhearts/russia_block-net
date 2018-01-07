@@ -44,6 +44,5 @@ protected:
 /////////////////////////////////////////////////////////////////////////////
 
 //{{AFX_INSERT_LOCATION}}
-// Microsoft Visual C++ will insert additional declarations immediately before the previous line.
 
 #endif // !defined(AFX_REQUEST_H__BFB4EDBA_DAE1_11D5_B2C4_5254AB2BD63E__INCLUDED_)

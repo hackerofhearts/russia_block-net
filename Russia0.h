@@ -1,4 +1,4 @@
-/*// Russia0.h: interface for the CRussia0 class.
+// Russia0.h: interface for the CRussia0 class.
 //
 //////////////////////////////////////////////////////////////////////
 
@@ -30,4 +30,3 @@ public:
 };
 
 #endif // !defined(AFX_RUSSIA0_H__CCAB5FC2_E41F_11D5_B2C4_5254AB2BD63E__INCLUDED_)
-*/

@@ -1,4 +1,4 @@
-/*#if !defined(AFX_CONNECT_H__BFB4EDB7_DAE1_11D5_B2C4_5254AB2BD63E__INCLUDED_)
+#if !defined(AFX_CONNECT_H__BFB4EDB7_DAE1_11D5_B2C4_5254AB2BD63E__INCLUDED_)
 #define AFX_CONNECT_H__BFB4EDB7_DAE1_11D5_B2C4_5254AB2BD63E__INCLUDED_
 
 #if _MSC_VER > 1000
@@ -43,7 +43,5 @@ protected:
 };
 
 //{{AFX_INSERT_LOCATION}}
-// Microsoft Visual C++ will insert additional declarations immediately before the previous line.
 
 #endif // !defined(AFX_CONNECT_H__BFB4EDB7_DAE1_11D5_B2C4_5254AB2BD63E__INCLUDED_)
-*/

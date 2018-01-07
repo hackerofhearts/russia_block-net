@@ -1,4 +1,4 @@
-/*#if !defined(AFX_SERVERORCLIENT_H__BFB4EDB6_DAE1_11D5_B2C4_5254AB2BD63E__INCLUDED_)
+#if !defined(AFX_SERVERORCLIENT_H__BFB4EDB6_DAE1_11D5_B2C4_5254AB2BD63E__INCLUDED_)
 #define AFX_SERVERORCLIENT_H__BFB4EDB6_DAE1_11D5_B2C4_5254AB2BD63E__INCLUDED_
 
 #if _MSC_VER > 1000
@@ -44,4 +44,3 @@ protected:
 // Microsoft Visual C++ will insert additional declarations immediately before the previous line.
 
 #endif // !defined(AFX_SERVERORCLIENT_H__BFB4EDB6_DAE1_11D5_B2C4_5254AB2BD63E__INCLUDED_)
-*/

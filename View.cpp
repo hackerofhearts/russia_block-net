@@ -1,4 +1,4 @@
-// 8_1View.cpp : implementation of the CMy8_1View class
+//View.cpp : implementation of the CMy8_1View class
 //
 
 #include "stdafx.h"
@@ -15,7 +15,7 @@ static char THIS_FILE[] = __FILE__;
 #endif
 
 /////////////////////////////////////////////////////////////////////////////
-// CMy8_1View
+
 
 IMPLEMENT_DYNCREATE(CMy8_1View, CView)
 
@@ -44,7 +44,6 @@ BEGIN_MESSAGE_MAP(CMy8_1View, CView)
 END_MESSAGE_MAP()
 
 /////////////////////////////////////////////////////////////////////////////
-// CMy8_1View construction/destruction
 
 CMy8_1View::CMy8_1View()
 {

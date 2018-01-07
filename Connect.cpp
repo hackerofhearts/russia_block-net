@@ -2,7 +2,7 @@
 //
 
 #include "stdafx.h"
-#include "8_1.h"
+#include "main.h"
 #include "Connect.h"
 
 #ifdef _DEBUG
@@ -28,9 +28,9 @@ CConnect::CConnect(CWnd* pParent /*=NULL*/)
 void CConnect::DoDataExchange(CDataExchange* pDX)
 {
 	CDialog::DoDataExchange(pDX);
-	//{{AFX_DATA_MAP(CConnect)
+
 	DDX_Text(pDX, IDC_SERVER, m_server);
-	//}}AFX_DATA_MAP
+
 }
 
 

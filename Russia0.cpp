@@ -3,7 +3,7 @@
 //////////////////////////////////////////////////////////////////////
 
 #include "stdafx.h"
-#include "8_1.h"
+#include "main.h"
 #include "Russia0.h"
 
 #ifdef _DEBUG
